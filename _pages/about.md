@@ -11,7 +11,7 @@ I'm an intelligent medical engineering undergraduate student from [School of Med
 
 I am very fortunate to be advised by [Dr. Fenglong Yang](http://lab.malab.cn/~yangfl/) of Fujian Medical University.
 
-You can find my CV here: 
+You can find my CV here: [Curriculum_Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:sweet66661@outlook.com) / [Github](https://github.com/wangziyingly) / [Wechat](../images/wechat.jpg) / 
 
