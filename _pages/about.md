@@ -13,7 +13,7 @@ I am very fortunate to be advised by [Dr. Fenglong Yang](http://lab.malab.cn/~ya
 
 You can find my CV here: [Curriculum_Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:sweet66661@outlook.com) / [Github](https://github.com/wangziyingly) / [Wechat](../images/wechat.jpg) / 
+[Email](mailto:sweet66661@outlook.com) / [Github](https://github.com/wangziyingly) / [Wechat](../images/wechat.png) / 
 
 
 Work expertises
