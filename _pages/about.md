@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an intelligent medical engineering undergraduate student from [School of Medical Imaging](https://yxxy.fjmu.edu.cn/), [Fujian Medical University]
-(https://www.fjmu.edu.cn/). My research interests include: intelligent image recognition, computer vision,  machine learning, medical physics and more!
+I'm an intelligent medical engineering undergraduate student from [School of Medical Imaging](https://yxxy.fjmu.edu.cn/), [Fujian Medical University](https://www.fjmu.edu.cn/). My research interests include: intelligent image recognition, computer vision,  machine learning, medical physics and more!
 
 I am very fortunate to be advised by [Dr. Fenglong Yang](http://lab.malab.cn/~yangfl/) of Fujian Medical University.
 
@@ -17,3 +16,26 @@ You can find my CV here:
 [Email](mailto:sweet66661@outlook.com) / [Github](https://github.com/wangziyingly) / [Wechat](../images/wechat.jpg) / 
 
 
+Awards
+======
+1. August 2023 Second Prize of the 6th China Medical Device Innovation and Entrepreneurship Competition Special Competition.
+1. September 2023 Third Prize of the Creative China Medical Device Innovation and Entrepreneurship Competition. 
+1. June 2023 Winner of the 6th China Medical Device Innovation and Entrepreneurship Competition, Mobile Telemedicine Track.
+1. the s-award in the American Student Mathematical Modelling Competition.
+1. the s Award in Asia-Pacific Mathematical Modelling Competition.  
+1. Grand Prize of the Digital Dimension Cup Mathematical Modelling Competition.
+1. Second Prizes in National University Student Mathematical Modelling Competition in Fujian Region twice.
+
+Projects
+======
+1. Oct 2023 Co-author of a paper: "Prediction Models for Sleep Quality Among Frontline Medical Personnel During the COVID-19 Pandemic: Cross-sectional Study Based on Internet New Media" in Nature and Science of Sleep, SCI Region III.
+2. June 2022: Second chairperson of the university-level project "Hitomi Star Computer Vision Aid System".
+3. March 2023 -Main member of the provincial-level project "Nasopharyngeal Cancer Radiotherapy Target Area Automatically Outlining and Metrological Prediction".
+
+Skills Certificate
+======
+1. November 2022 National Computer Grade Examination Level 2 Certificate (Python Language)
+2. November 2023 National Computer Ranking Examination Level 3 Certificate (Database Technology)
+3. November 2023 National Computer Grade Examination Level 4 Certificate (Database Engineer)
+4. Dec 2023 China Computer Technology Vocational Qualification Certificate - Integrated System Project Management Engineer (Intermediate Title)
+5. December 2023 Certificate of Grade 6 in University English Language
